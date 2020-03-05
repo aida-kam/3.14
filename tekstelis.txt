@@ -18,3 +18,8 @@ print(res_list)
 print(Classes['Monday'][0])   #gauti Bioethics 
 
 print(Classes['Thursday'][2]) #gauti  Biophysics of Neuron
+
+2a
+
+for i in range (0,len(Classes)):
+    print(i)
