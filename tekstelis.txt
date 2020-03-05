@@ -40,3 +40,10 @@ list2C1=list(set(list2C2).intersection(list2C3))
 print(list2C1)
 list2C4 = list(set(list2C2).difference(list2C3))
 print(list2C4)
+
+
+3a
+
+import math
+for x in range (1,21):
+  print(x, (x**3))
