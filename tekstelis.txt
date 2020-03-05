@@ -23,3 +23,11 @@ print(Classes['Thursday'][2]) #gauti  Biophysics of Neuron
 
 for i in range (0,len(Classes)):
     print(i)
+    
+ 2b
+ 
+list2B1 = [1, 'two', False, 3.14, 3+4j]
+list2B2 = [[4, 5]]
+list2B3 = [7, 8]
+list2B4 = list2B1+list2B2+list2B3
+print(list2B4)
