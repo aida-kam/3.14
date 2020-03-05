@@ -32,8 +32,11 @@ list2B3 = [7, 8]
 list2B4 = list2B1+list2B2+list2B3
 print(list2B4)
 
-2c.1
+2c
+
 list2C2 = [10, 5, 91, 5, 2, 42, 8, 3, 5, 4, 9, 5, 45, 68, 3, 2, 48]
 list2C3 = [0, 3, 5, 88, 94, 5, 21, 9, 5, 0, 0, 5, 6, 0, 0, 8, 5]
 list2C1=list(set(list2C2).intersection(list2C3))
 print(list2C1)
+list2C4 = list(set(list2C2).difference(list2C3))
+print(list2C4)
