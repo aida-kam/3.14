@@ -16,3 +16,5 @@ res_list = listB1[1],listB1[-1]
 print(res_list)
 
 print(Classes['Monday'][0])   #gauti Bioethics 
+
+print(Classes['Thursday'][2]) #gauti  Biophysics of Neuron
