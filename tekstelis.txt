@@ -11,3 +11,6 @@ print(listA1[1][2][-1][-2]) #gauti d
 print(listA1[1][0:2]) #gauti a,b
 
 print(listA1[0][1:4]) #gauti 234
+---
+res_list = listB1[1],listB1[-1]
+print(res_list)
