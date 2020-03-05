@@ -6,3 +6,5 @@ print(listA1[1][1]) #gauti b
 
 print(listA1[1][2][-1][-2]) #gauti d
 
+print(listA1[1][0:2]) #gauti a,b
+
