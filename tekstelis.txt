@@ -1,1 +1,2 @@
 tai galejo buti smaikstus komentaras
+code # php
