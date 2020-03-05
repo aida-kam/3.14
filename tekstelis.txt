@@ -14,3 +14,5 @@ print(listA1[0][1:4]) #gauti 234
 ---
 res_list = listB1[1],listB1[-1]
 print(res_list)
+
+print(Classes['Monday'][0])   #gauti Bioethics 
