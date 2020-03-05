@@ -1,3 +1,8 @@
 tai galejo buti smaikstus komentaras
 code # php
-print(listA1[-1])
+print(listA1[-1]) #gauti 78
+
+print(listA1[1][1]) #gauti b
+
+print(listA1[1][2][-1][-2]) #gauti d
+
